@@ -56,6 +56,7 @@ This repository models the work a first GRC hire might do to establish a practic
 │   └── policy-exception-request.md
 └── deliverables/
     ├── Cyberdyne_Systems_GRC_Policy_Pack.docx
+    ├── Cyberdyne_Systems_GRC_Policy_Pack.md
     └── Cyberdyne_Systems_GRC_Policy_Pack.pdf
 ```
 
